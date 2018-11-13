@@ -2,8 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="93e65d38-6f56-4948-8c31-c0fb0667f6af" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/截图/圣杯和双飞翼布局.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/截图/百分比布局.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/截图/等宽布局.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/双飞翼和圣杯布局/1.利用定位position实现.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/双飞翼和圣杯布局/2.float加margin.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/双飞翼和圣杯布局/3.float加margin 加 calc.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/双飞翼和圣杯布局/4.float加margin负值.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/双飞翼和圣杯布局/5.inline-block.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/双飞翼和圣杯布局/6.inline-block + margin负值.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/双飞翼和圣杯布局/7.display- flex.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/水平垂直居中多种方法/1.绝对定位 margin负值.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/水平垂直居中多种方法/2.绝对定位 四个方位为0.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/水平垂直居中多种方法/3.绝对定位 translate.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/水平垂直居中多种方法/4.margin属性居中.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/水平垂直居中多种方法/5.table-cell.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/水平垂直居中多种方法/6.flex 居中.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -92,6 +107,12 @@
     <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
     <property name="last_opened_file_path" value="D:/Rnehome" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\code\css\css-layout" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -115,12 +136,20 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1542084648266</updated>
-      <workItem from="1542084649413" duration="128000" />
+      <workItem from="1542084649413" duration="941000" />
     </task>
+    <task id="LOCAL-00001" summary="布局">
+      <created>1542085013389</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1542085013389</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="128000" />
+    <option name="totallyTimeSpent" value="941000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="2" width="1932" height="1045" extended-state="0" />
@@ -130,7 +159,7 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32930845" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -149,6 +178,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="布局" />
+    <option name="LAST_COMMIT_MESSAGE" value="布局" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
